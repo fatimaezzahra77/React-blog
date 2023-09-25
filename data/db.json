@@ -1,0 +1,103 @@
+{
+  "articles": [
+    {
+      "title": "Quote of the day",
+      "description": "take your dose of motivation by today's quote! 😊",
+      "image": "https://img.freepik.com/free-photo/never-stop-learning-quote-hand-holding-flower_53876-94796.jpg",
+      "id": 1,
+      "active": false
+    },
+    {
+      "title": "Quote of the day TWO ",
+      "description": "Take your dose of motivation with our quote of today! 😉",
+      "image": "https://i.pinimg.com/736x/48/3f/a7/483fa725659c86c26d8699f535b20d30.jpg",
+      "id": 2,
+      "active": false
+    },
+    {
+      "title": "Quote of the Day Three ",
+      "description": "Do you believe that good things can come someday? 🤔",
+      "image": "https://img.freepik.com/premium-vector/good-things-are-coming-inspirational-quote-retro-wavy-typography-white-background_580616-775.jpg?w=2000",
+      "id": 3,
+      "active": false
+    },
+    {
+      "title": "Quote of the day FOUR ",
+      "description": "Life is too short to waste it on getting scared to fail.😕",
+      "image": "https://i0.wp.com/quoteamo.com/wp-content/uploads/2016/04/62-dont-be-afraid-to-fail.jpeg",
+      "id": 4
+    },
+    {
+      "title": "Quote of the day FIVE ",
+      "description": "Ummm, just a simple wish. 😅",
+      "image": "https://images.squarespace-cdn.com/content/v1/596001c2579fb355caec7aac/1523036335337-QG7ICBF5PXSLUQF5F8RE/Kagome-Inuyasha.jpg",
+      "id": 5
+    },
+    {
+      "title": "Quote of the day SIX",
+      "description": "Truth to be told, it is a joke not a quote. How funny! 😂",
+      "image": "https://www.upgradingoneself.com/ezoimgfmt/upgradingoneself.com/wp-content/uploads/2022/12/Funny-Anime-Quotes-1-300x300.jpg?ezimgfmt=rs:300x300/rscb1",
+      "id": 6
+    },
+    {
+      "title": "Quote of the day SEVEN ",
+      "description": "Truth 💯",
+      "image": "https://www.invajy.com/wp-content/uploads/2022/06/Robert-Kiyosaki-Quotes-2-300x192.jpg",
+      "id": 7
+    },
+    {
+      "title": "Quote of the day EIGHT",
+      "description": "You have to know it by your heart, everything is totally POSSIBLE ! ",
+      "image": "https://parade.com/.image/t_share/MTkzMDEwNDIzOTkyMTY1NTk3/inspirational-quote.png",
+      "id": 8
+    },
+    {
+      "title": "Quote of the day NINE",
+      "description": "The wonderful is only YOU!! 🤩🥰",
+      "image": "https://www.moroccoworldnews.com/wp-content/uploads/2022/02/20-quotes-to-boost-your-motivation-and-productivity-800x512.png",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "name": "Developement",
+      "id": 1
+    },
+    {
+      "name": "Management",
+      "id": 2
+    },
+    {
+      "name": "Entrepreunariat",
+      "id": 3
+    },
+    {
+      "name": "Design",
+      "id": 4
+    },
+    {
+      "name": "Artificial intelligence",
+      "id": 5
+    },
+    {
+      "name": "Books",
+      "id": 6
+    },
+    {
+      "name": "Languages",
+      "id": 7
+    },
+    {
+      "name": "Cultures",
+      "id": 8
+    },
+    {
+      "name": "General",
+      "id": 9
+    },
+    {
+      "name": "Photoshop",
+      "id": 10
+    }
+  ]
+}
